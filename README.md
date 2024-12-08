@@ -1,6 +1,6 @@
 # awesome-reinforcement-fine-tuning
 Awesome Reinforcement Fine Tuning
-
+This repository will be continuously updated with articles related to reinforcement fine-tuning. 🌟🌟🌟
 #### Inference Time Scaling
 
 ---
