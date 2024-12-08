@@ -1,7 +1,7 @@
 # awesome-reinforcement-fine-tuning
 Awesome Reinforcement Fine Tuning
 
-#### Inference Scaling
+#### Inference Time Scaling
 
 ---
 
